@@ -46,5 +46,5 @@
 
 
 
-### 🎨 **یکم فان 😎**
+### 🎨 **یکم زیبایی 😎**
 ![Coding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGN0c3pweGN0Nmdib3VuNGRuZmdiY3VqYzE3Z3J0dnhzeXlrYmdoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zRfp0Jwsag4yPekP4/giphy.gif)
