@@ -5,7 +5,7 @@
 🚗 علاقه‌مند به ماشین و تیونینگ  
 🏍 عاشق موتورسواری و رانندگی  
 
-<hr>
+
 
 ## 💻 **تکنولوژی‌هایی که بلدم**
 <p align="center">
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-<hr>
+
 
 ## 🚗 **علاقه‌مندی‌ها**
 - عاشق **ماشین و تیونینگ**
@@ -26,13 +26,13 @@
 - موتورسوار و ماشین‌سوار هستم
 - یه گروه کوچک راه انداختم که فعلاً نمی‌خوام خیلی معروف بشه 😉
 
-<hr>
+
 
 ## 📊 **آمار گیت‌هاب من**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
 
-<hr>
+
 
 ## 🌐 **راه‌های ارتباطی**
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
@@ -40,7 +40,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 
 
-<hr>
+
 
 ### 🎨 **یکم فان 😎**
 ![Coding](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
