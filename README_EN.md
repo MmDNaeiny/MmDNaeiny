@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-[![🔙 Back to Persian](https://img.shields.io/badge/🔙%20برگشت%20به%20فارسی-red)](https://github.com/yourusername/yourrepo/blob/main/README.md)
 
 ---
 
