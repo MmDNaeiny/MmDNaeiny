@@ -1,4 +1,4 @@
-# 👋 سلام! من محمدرضا نائینی هستم
+# 👋 سلام! من محمدرضا نائینی هستم [![English Version](https://img.shields.io/badge/🌍%20Read%20in%20English-blue)](https://github.com/yourusername/yourrepo/blob/main/README_EN.md)
 
 🎂 ۱۸ ساله | 📍 ساکن تهران  
 💻 طراح وبسایت و برنامه‌نویس  
@@ -42,7 +42,6 @@
 
 
 
-## [![English Version](https://img.shields.io/badge/🌍%20Read%20in%20English-blue)](https://github.com/yourusername/yourrepo/blob/main/README_EN.md)
 
 
 ### 🎨 **یکم فان 😎**
