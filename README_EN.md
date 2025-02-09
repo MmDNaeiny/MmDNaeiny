@@ -5,7 +5,7 @@
 🚗 Car & Tuning Enthusiast  
 🏍 Love Riding Motorcycles & Driving  
 
----
+
 
 ## 💻 **Tech Stack**
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 
----
+
 
 ## 🚗 **Interests**
 - Passionate about **cars & tuning**
@@ -27,20 +27,20 @@
 - Motorbike & car driver
 - Founded a small **private community** 🚗🏍
 
----
+
 
 ## 📊 **GitHub Stats**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
 
----
+
 
 ## 🌐 **Contact Me**
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mmdnaeiny)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MmDNaeiny)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammadreza-naeiny-a56767294)
 
----
+
 
 ### 🎨 **Some Fun 😎**
 ![Coding](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
